@@ -9,7 +9,9 @@ Requirements
 <!--List anything needed to test that is not part of the standard HSPH local development environment-->
 
 **Branches:**
-1. *repository-name/BRANCH-NAME*
+<!--List any required branches in this format: repository-name/branch-name-->
+
+1.
 
 Test Steps
 ----------
@@ -21,19 +23,19 @@ Test Steps
 
 Related
 -----------------
-**Jira**
+**Jira Issues**
 
 <!--List issue numbers here. Ex: ABC-1234-->
 
 1.
 
 
-<!--**ServiceNow**-->
+<!--**ServiceNow tickets**-->
 
   <!--List ticket numbers here. Ex: INC01234567-->
 
 
-<!--**Wiki**-->
+<!--**Wiki articles**-->
 
   <!--Link to any related Wiki articles-->
 
