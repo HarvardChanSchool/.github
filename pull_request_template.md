@@ -21,6 +21,13 @@ Test Steps
 2.
 3.
 
+Web Accessiblity 
+----------------
+<!--All changes introduced in this PR meet our web accessiblity guidlines -->
+
+- [ ] All changes in this PR conform with the current version of our [Web Accessibility PR Checklist](https://wiki.harvard.edu/confluence/pages/viewpage.action?spaceKey=HSPHWeb&title=Web+Accessibility+PR+Checklist).
+
+
 Related
 -----------------
 **Jira Issues**
