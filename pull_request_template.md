@@ -21,7 +21,7 @@ Test Steps
 2.
 3.
 
-Web Accessiblity 
+Web Accessibility 
 ----------------
 <!--All changes introduced in this PR meet our web accessiblity guidlines -->
 
